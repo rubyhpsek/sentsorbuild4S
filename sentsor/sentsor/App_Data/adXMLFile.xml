@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/image1.gif</ImageUrl>
+    <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/forest.JPG</ImageUrl>
+    <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/flower.gif</ImageUrl>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>~/ProductDetails.aspx</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+</Advertisements>
